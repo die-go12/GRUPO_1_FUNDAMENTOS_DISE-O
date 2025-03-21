@@ -6,7 +6,7 @@ Bienvenidos al repositorio de nuestro **prototipo de sensor para detectar la can
 Desarrollar un **sensor portátil y accesible** que permita medir la presencia de químicos en los alimentos, especialmente pesticidas y conservantes. Con esta solución, queremos contribuir a la reducción del uso excesivo de sustancias dañinas en la producción de alimentos y promover hábitos de consumo más saludables.  
 
 ## 👥 Integrantes del equipo  
-- **Andrés Rodas**  
+- **Andrés Rodas   : Coordinador de Información e Investigación **
 - **Juan Diego López**  
 - **Dario Huerta  : Encargado del diseño y aquiterctura del prototipo a continuacion**  
 - **Harriet Mamani**  
