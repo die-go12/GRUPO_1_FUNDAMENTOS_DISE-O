@@ -8,7 +8,7 @@ Desarrollar un **sensor portátil y accesible** que permita medir la presencia d
 ## 👥 Integrantes del equipo  
 - **Andrés Rodas**  
 - **Juan Diego López**  
-- **Dario Huerta**  
+- **Dario Huerta  : Encargado del diseño y aquiterctura del prototipo a continuacion**  
 - **Harriet Mamani**  
 - **Jheyson Castañeda**  
 
