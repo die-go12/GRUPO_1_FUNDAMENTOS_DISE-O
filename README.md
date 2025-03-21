@@ -9,7 +9,7 @@ Desarrollar un **sensor portátil y accesible** que permita medir la presencia d
 - **Andrés Rodas  : Coordinador de Investigación y Gestión de Datos**
 - **Juan Diego López**  
 - **Dario Huerta  : Encargado del diseño y aquiterctura del prototipo a continuacion**  
-- **Harriet Mamani** : **Coordinadora en control de calidad**
+- **Harriet Mamani** : **Coordinadora de control de calidad**
 - **Jheyson Castañeda**  
 
 ## 📌 Fases del Proyecto  
