@@ -62,6 +62,8 @@ Altos índices de contaminación por metales pesados (plomo, cadmio, mercurio) y
    - Pequeños comerciantes que buscan evitar pérdidas económicas por decomisos.  
    - *Dolor clave*: Falta de herramientas para verificar la calidad de sus productos.  
 
+## 🚛 **Punto de Dolor Crítico: Contaminación en la Última Milla**  
+*(Etapa de distribución final donde los alimentos llegan al consumidor)* 
 ---
 
 
