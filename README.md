@@ -38,6 +38,39 @@ Somos un equipo multidisciplinario apasionado por la innovación y el desarrollo
 3. **Prototipado**: Crear y probar el primer modelo funcional del sensor.  
 4. **Validación**: Evaluar la precisión del sensor y optimizarlo para su uso cotidiano.  
 
+## 🌍 **Vinculación con Objetivos de Desarrollo Sostenible (ODS)**  
+Este proyecto contribuye directamente al **ODS 12: Producción y Consumo Responsables** mediante:  
+
+  *Gestión racional de productos químicos y desechos para minimizar su impacto en la salud y el ambiente*.  
+
+  *Reducir el desperdicio de alimentos en las cadenas de producción y suministro*.
+---
+
+## 🚨 **Definición del Problema**  
+**¿Qué resolvemos?**  
+Altos índices de contaminación por metales pesados (plomo, cadmio, mercurio) y pesticidas (organofosforados, carbamatos) en frutas y verduras comercializadas en mercados locales, con evidencia de que la contaminación ocurre en la etapa final de distribución (post-cosecha).
+ 
+---
+
+## 👥 **Usuario Objetivo**  
+**Perfiles Principales**:  
+1. **Consumidores de mercados populares**  
+   - Personas de bajos ingresos que compran diariamente en puestos informales.  
+   - *Necesidad prioritaria*: Acceder a alimentos seguros sin costos adicionales.  
+
+2. **Vendedores minoristas**  
+   - Pequeños comerciantes que buscan evitar pérdidas económicas por decomisos.  
+   - *Dolor clave*: Falta de herramientas para verificar la calidad de sus productos.  
+
+---
+
+## � **Contexto Operativo**  
+**Cadena de suministro afectada**:  
+```mermaid  
+graph LR  
+A[Producción Agrícola] --> B(Transporte en vehículos no regulados)  
+B --> C[Almacenamiento en zonas urbanas contaminadas]  
+C --> D{Venta en mercados locales}  
 ## 🔍 Impacto Esperado  
 - 🌱 **Reducir el consumo de productos con exceso de químicos nocivos**.  
 - 🏭 **Promover buenas prácticas en la industria alimentaria** incentivando una producción más responsable.  
