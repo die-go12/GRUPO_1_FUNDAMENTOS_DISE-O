@@ -64,13 +64,7 @@ Altos índices de contaminación por metales pesados (plomo, cadmio, mercurio) y
 
 ---
 
-## � **Contexto Operativo**  
-**Cadena de suministro afectada**:  
-```mermaid  
-graph LR  
-A[Producción Agrícola] --> B(Transporte en vehículos no regulados)  
-B --> C[Almacenamiento en zonas urbanas contaminadas]  
-C --> D{Venta en mercados locales}  
+
 ## 🔍 Impacto Esperado  
 - 🌱 **Reducir el consumo de productos con exceso de químicos nocivos**.  
 - 🏭 **Promover buenas prácticas en la industria alimentaria** incentivando una producción más responsable.  
