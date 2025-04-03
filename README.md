@@ -1,5 +1,6 @@
 # 🥦 Proyecto ODS 12 - Sensor de Químicos en Alimentos  
 
+**¡Contribuyendo al consumo responsable y la salud comunitaria!**  
 Bienvenidos al repositorio de nuestro **prototipo de sensor para detectar la cantidad de químicos en los alimentos**, alineado con la **ODS 12: Producción y Consumo Responsable**. Buscamos fomentar un consumo informado y responsable, ayudando a las personas a conocer mejor la calidad de los productos que consumen.  
 
 ## 🏆 Objetivo del Proyecto  
@@ -46,11 +47,27 @@ Este proyecto contribuye directamente al **ODS 12: Producción y Consumo Respons
   *Reducir el desperdicio de alimentos en las cadenas de producción y suministro*.
 ---
 
-## 🚨 **Definición del Problema**  
+## 🚨 Problema  
 **¿Qué resolvemos?**  
-Altos índices de contaminación por metales pesados (plomo, cadmio, mercurio) y pesticidas (organofosforados, carbamatos) en frutas y verduras comercializadas en mercados locales, con evidencia de que la contaminación ocurre en la etapa final de distribución (post-cosecha).
- 
+- **Contaminación por fertilizantes no regulados** en frutas/verduras durante etapas de almacenamiento o transporte post-cosecha:  
+  - 🧪 **Cadmio**: Presente en fertilizantes fosfatados de baja calidad, asociado a daños renales y óseos.  
+  - 🌱 **Nitratos**: Usados en exceso para acelerar el crecimiento, potencialmente cancerígenos.  
+- **Impacto**:  
+  - 👩🌾 **Salud pública**: Consumo crónico de alimentos contaminados.  
+  - 💸 **Pérdidas económicas**: Decomisos de lotes contaminados a pequeños agricultores y vendedores.  
+
 ---
+---
+
+## 🔍 Alcance  
+
+### ✔️ **Incluye**  
+- Detección de **cadmio y nitratos** en superficies de alimentos.  
+- Enfoque en **5 cultivos clave**: tomate, lechuga, zanahoria, manzana y espinaca.  
+- Pruebas en **mercados locales de Lima Norte** (Perú)
+### ❌ **Excluye**  
+- Análisis de fertilizantes en etapas de cultivo (pre-cosecha).  
+- Detección de metales pesados no vinculados a fertilizantes (ej. plomo). 
 
 ## 👥 **Usuario Objetivo**  
 **Perfiles Principales**:  
