@@ -72,7 +72,7 @@ Complementando lo anterior, el uso generalizado de pesticidas sintéticos no sol
 
 ### ✔️ **Incluye**  
 - Detección de **cadmio y nitratos** en superficies de alimentos.  
-- Enfoque en **5 cultivos clave**: tomate, lechuga, zanahoria, manzana y piña.  
+- Enfoque en **5 cultivos clave**: tomate, cebolla china, fresa, manzana y piña.  
 - Pruebas en **mercados locales de Lima Norte** (Perú)
 ### ❌ **Excluye**  
 - Análisis de fertilizantes en etapas de cultivo (pre-cosecha).  
