@@ -84,7 +84,7 @@ Nuestro proyecto desarrolla un sistema de detección no invasivo que utiliza:
 - Pruebas en **mercados locales de Lima Norte** (Perú)
 ### ❌ **Excluye**  
 - Análisis de fertilizantes en etapas de cultivo (pre-cosecha).  
-- Detección de metales pesados no vinculados a fertilizantes (ej. plomo). 
+  
 
 ## 👥 **Usuario Objetivo**  
 **Perfiles Principales**:  
