@@ -63,7 +63,7 @@ Este proyecto contribuye directamente al **ODS 12: Producción y Consumo Respons
 
 ### ✔️ **Incluye**  
 - Detección de **cadmio y nitratos** en superficies de alimentos.  
-- Enfoque en **5 cultivos clave**: tomate, lechuga, zanahoria, manzana y espinaca.  
+- Enfoque en **5 cultivos clave**: tomate, lechuga, zanahoria, manzana y piña.  
 - Pruebas en **mercados locales de Lima Norte** (Perú)
 ### ❌ **Excluye**  
 - Análisis de fertilizantes en etapas de cultivo (pre-cosecha).  
@@ -91,6 +91,7 @@ Este proyecto contribuye directamente al **ODS 12: Producción y Consumo Respons
 
 📢 **¡Estamos abiertos a ideas y colaboraciones!** Si tienes sugerencias o quieres contribuir al proyecto, no dudes en contactarnos.  
 
----
 
+---
+## 🛠️ Materiales..
 🔗 *Repositorio creado para el curso de Fundamentos de Diseño - 2025*
