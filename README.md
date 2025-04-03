@@ -4,7 +4,7 @@
 Bienvenidos al repositorio de nuestro **prototipo de sensor para detectar la cantidad de químicos en los alimentos**, alineado con la **ODS 12: Producción y Consumo Responsable**. Buscamos fomentar un consumo informado y responsable, ayudando a las personas a conocer mejor la calidad de los productos que consumen.  
 
 ## 🏆 Objetivo del Proyecto  
-Desarrollar un **sensor portátil y accesible** que permita medir la presencia de químicos en los alimentos, especialmente pesticidas y conservantes. Con esta solución, queremos contribuir a la reducción del uso excesivo de sustancias dañinas en la producción de alimentos y promover hábitos de consumo más saludables.  
+Desarrollar un **sensor portátil y accesible** que permita medir la presencia de químicos en los alimentos (frutas y verduras), especialmente pesticidas y conservantes. Con esta solución, queremos contribuir a la reducción del uso excesivo de sustancias dañinas en la producción de alimentos y promover hábitos de consumo más saludables.  
 
 ## 👥 Sobre Nosotros  
 
@@ -58,15 +58,23 @@ Este proyecto contribuye directamente al **ODS 12: Producción y Consumo Respons
 ---
 # Riesgos de los Pesticidas en Salud
 
-## PROBLEMATICA: Exposición a Pesticidas: Impacto Documentado
-   
-La exposición a pesticidas químicos representa un grave riesgo para la flora, la fauna y el medio ambiente. Sin embargo, su impacto más alarmante se manifiesta en la salud humana, especialmente en grupos con exposición directa, como trabajadores agrícolas, fabricantes de pesticidas y aplicadores domésticos,sin embargo otro grupo afectado tambien son los consumidores finales . Los efectos nocivos abordan múltiples sistemas del organismo, respaldados por evidencia científica que vincula estos químicos con enfermedades crónicas, trastornos reproductivos y alteraciones neurológicas.(1)
+## PROBLEMATICA: Exposición a pesticidas a través del consumo de frutas y verduras
+    
+La presencia de residuos de pesticidas en frutas y verduras representa un riesgo significativo para la salud de los consumidores. Estudios científicos han demostrado que la ingesta continua de estos químicos, incluso en bajas concentraciones, puede afectar múltiples sistemas del organismo, vinculándose con enfermedades crónicas, trastornos reproductivos y alteraciones neurológicas en la población general.(1)
 
-Complementando lo anterior, el uso generalizado de pesticidas sintéticos no solo ha generado un impacto devastador en los ecosistemas -contaminando suelos y aguas-, sino que profundiza sus efectos en la salud humana. Los mismos grupos vulnerables mencionados (agricultores, trabajadores industriales y comunidades rurales) enfrentan riesgos amplificados por exposiciones tanto agudas como crónicas. Estudios concluyentes demuestran que estos compuestos no solo alteran funciones biológicas esenciales, sino que desencadenan un espectro de patologías que van desde enfermedades neurodegenerativas hasta graves alteraciones endocrinas y del desarrollo.(2)
+
+El uso generalizado de pesticidas sintéticos en la agricultura no solo contamina los alimentos, sino que genera un impacto acumulativo en la salud humana. Investigaciones concluyentes demuestran que estos compuestos alteran funciones biológicas esenciales, desencadenando un espectro de patologías que van desde enfermedades neurodegenerativas hasta graves alteraciones endocrinas y del desarrollo, particularmente preocupante en niños y grupos vulnerables.(2)
+
 ## 📚 Referencias
 1. Thompson LA, Darwish WS. *Environmental Chemical Contaminants in Food: Review of a Global Problem*. J Toxicol. 2019;2019(1):2345283.  
 2. Rani L, et al. *An extensive review on the consequences of chemical pesticides on human health and environment*. J Clean Prod. 2021;283:124657.
 
+## Solución Tecnológica Propuesta
+
+Nuestro proyecto desarrolla un sistema de detección no invasivo que utiliza:
+- Imágenes hiperespectrales para identificación precisa
+- Algoritmos de aprendizaje automático para clasificación
+- Tecnología accesible para uso doméstico y comercial
 ---
 ## 🔍 Alcance  
 
