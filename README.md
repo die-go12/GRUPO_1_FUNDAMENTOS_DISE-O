@@ -47,18 +47,27 @@ Este proyecto contribuye directamente al **ODS 12: Producción y Consumo Respons
   *Reducir el desperdicio de alimentos en las cadenas de producción y suministro*.
 ---
 
-## 🚨 Problema  
-**¿Qué resolvemos?**  
+## 🚨  **¿Qué resolvemos?**  
 - **Contaminación por fertilizantes no regulados** en frutas/verduras durante etapas de almacenamiento o transporte post-cosecha:  
   - 🧪 **Cadmio**: Presente en fertilizantes fosfatados de baja calidad, asociado a daños renales y óseos.  
   - 🌱 **Nitratos**: Usados en exceso para acelerar el crecimiento, potencialmente cancerígenos.  
 - **Impacto**:  
   - 👩🌾 **Salud pública**: Consumo crónico de alimentos contaminados.  
-  - 💸 **Pérdidas económicas**: Decomisos de lotes contaminados a pequeños agricultores y vendedores.  
 
 ---
 ---
+# Riesgos de los Pesticidas en Salud
 
+## PROBLEMATICA: Exposición a Pesticidas: Impacto Documentado
+   
+La exposición a pesticidas químicos representa un grave riesgo para la flora, la fauna y el medio ambiente. Sin embargo, su impacto más alarmante se manifiesta en la salud humana, especialmente en grupos con exposición directa, como trabajadores agrícolas, fabricantes de pesticidas y aplicadores domésticos,sin embargo otro grupo afectado tambien son los consumidores finales . Los efectos nocivos abordan múltiples sistemas del organismo, respaldados por evidencia científica que vincula estos químicos con enfermedades crónicas, trastornos reproductivos y alteraciones neurológicas.(1)
+
+Complementando lo anterior, el uso generalizado de pesticidas sintéticos no solo ha generado un impacto devastador en los ecosistemas -contaminando suelos y aguas-, sino que profundiza sus efectos en la salud humana. Los mismos grupos vulnerables mencionados (agricultores, trabajadores industriales y comunidades rurales) enfrentan riesgos amplificados por exposiciones tanto agudas como crónicas. Estudios concluyentes demuestran que estos compuestos no solo alteran funciones biológicas esenciales, sino que desencadenan un espectro de patologías que van desde enfermedades neurodegenerativas hasta graves alteraciones endocrinas y del desarrollo.(2)
+## 📚 Referencias
+1. Thompson LA, Darwish WS. *Environmental Chemical Contaminants in Food: Review of a Global Problem*. J Toxicol. 2019;2019(1):2345283.  
+2. Rani L, et al. *An extensive review on the consequences of chemical pesticides on human health and environment*. J Clean Prod. 2021;283:124657.
+
+---
 ## 🔍 Alcance  
 
 ### ✔️ **Incluye**  
