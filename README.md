@@ -1,5 +1,6 @@
 # 🥦 Proyecto ODS 12 - Sensor de Químicos en Alimentos  
 
+
 Bienvenidos al repositorio de nuestro **prototipo de sensor para detectar la cantidad de químicos en los alimentos**, alineado con la **ODS 12: Producción y Consumo Responsable**. Buscamos fomentar un consumo informado y responsable, ayudando a las personas a conocer mejor la calidad de los productos que consumen.  
 
 ## 🏆 Objetivo del Proyecto  
@@ -25,6 +26,6 @@ Desarrollar un **sensor portátil y accesible** que permita medir la presencia d
 
 📢 **¡Estamos abiertos a ideas y colaboraciones!** Si tienes sugerencias o quieres contribuir al proyecto, no dudes en contactarnos.  
 
----
+------
 
 🔗 *Repositorio creado para el curso de Fundamentos de Diseño - 2025*
