@@ -1,17 +1,14 @@
-# 🥦 Proyecto ODS 12 - Sensor de Químicos en Alimentos
+# 🍓 Proyecto ODS 12 - Detección de Organofosforados en Fresas
 
-> Bienvenidos al repositorio de nuestro prototipo de sensor para la detección de químicos en alimentos, alineado con el **Objetivo de Desarrollo Sostenible (ODS) 12: Producción y Consumo Responsable**.  
-> Este proyecto busca fomentar el consumo informado y saludable mediante el acceso a tecnologías accesibles que alerten sobre la presencia de pesticidas y conservantes en productos de uso diario.
+> Este repositorio documenta el desarrollo de un sistema portátil para detectar **residuos de pesticidas organofosforados** en fresas, alineado con el **Objetivo de Desarrollo Sostenible (ODS) 12: Producción y Consumo Responsable**.  
+> A través de tecnología accesible y mediciones en tiempo real, buscamos fomentar un consumo más saludable e informado, protegiendo la salud de los consumidores y promoviendo prácticas agrícolas responsables.
 
 ---
 
 ## 🏆 Objetivo del Proyecto
 
-Desarrollar un **sensor portátil, económico y funcional** capaz de identificar la presencia de **químicos nocivos** (como pesticidas y conservantes) en frutas y verduras. Con ello, buscamos:
-
-- Contribuir a la **reducción del uso excesivo de sustancias dañinas** en la producción agrícola.
-- Promover hábitos de **consumo responsable y consciente** en la población.
-- Empoderar a los consumidores mediante tecnología de bajo costo.
+Diseñar y construir un **sensor portátil y económico** que permita identificar la presencia de **organofosforados volátiles** en fresas, utilizando sensores de gases y tecnología de microcontroladores.  
+El sistema permitirá monitorear la calidad de frutas provenientes de mercados locales, reduciendo el riesgo de exposición a sustancias dañinas para la salud humana.
 
 ---
 
@@ -25,47 +22,50 @@ Desarrollar un **sensor portátil, económico y funcional** capaz de identificar
 
 ---
 
-## 📌 Fases del Proyecto
+## 🧪 ¿Qué detecta nuestro sensor?
 
-1. **🔍 Investigación**  
-   Identificación de los químicos más comunes en alimentos y análisis de sus efectos sobre la salud humana.
+Utilizamos un sensor **MQ135**, capaz de medir **compuestos orgánicos volátiles (COVs)** presentes en pesticidas como los **organofosforados**.  
+Dentro de una **caja 3D sellada**, el sistema genera un flujo de aire constante que concentra los gases desprendidos por las fresas para permitir su análisis.
 
-2. **🧠 Diseño del Sensor**  
-   Selección y configuración de tecnologías (como el sensor MQ135) para la detección de compuestos volátiles.
+### Componentes principales:
+- Sensor **MQ135**
+- Microcontrolador **ESP32** o **Arduino UNO**
+- Ventilador extractor (flujo de aire)
+- Cámara de detección cerrada
+- Visualización de datos en pantalla o web
 
-3. **🛠️ Prototipado**  
-   Construcción del primer modelo funcional en una caja 3D, integrando microcontroladores como Arduino o ESP32.
+---
 
-4. **✅ Validación**  
-   Pruebas de precisión, calibración y optimización del sistema para su uso cotidiano.
+## 🛠️ Fases del Proyecto
+
+1. **Investigación:** Identificación de los pesticidas más comunes usados en fresas (especialmente organofosforados) y sus riesgos para la salud.
+2. **Diseño del Sensor:** Integración del MQ135 con componentes electrónicos para la detección de COVs relacionados a pesticidas.
+3. **Prototipado:** Construcción de la caja 3D con sistema de ventilación, y programación del microcontrolador para lectura de datos.
+4. **Validación:** Pruebas en fresas adquiridas en distintos mercados locales para observar niveles de compuestos detectados.
 
 ---
 
 ## 🌍 Impacto Esperado
 
-- 🌱 **Reducción del consumo de productos contaminados** con químicos nocivos.
-- 🏭 **Promoción de buenas prácticas agrícolas** que minimicen el uso de pesticidas sintéticos.
-- 📊 **Empoderamiento ciudadano** mediante herramientas de monitoreo accesibles.
-- 🎯 **Contribución a los ODS**, particularmente al ODS 12: Producción y Consumo Responsable.
+- 🧬 **Reducción de la exposición a pesticidas organofosforados**, especialmente en comunidades vulnerables.
+- 🍓 **Control de calidad accesible** para productos agrícolas vendidos en mercados locales.
+- 📢 **Empoderamiento del consumidor** mediante tecnología portátil e información en tiempo real.
+- 📈 **Apoyo a la fiscalización** de alimentos contaminados y promoción de prácticas agrícolas sostenibles.
 
 ---
 
-## 💡 ¿Quieres contribuir?
+## 🤝 ¿Cómo colaborar?
 
-¡Estamos abiertos a ideas, sugerencias y colaboraciones!  
-Si deseas mejorar el sistema, compartir experiencias similares o aportar desde tu campo, **no dudes en contactarnos.**
-
----
-
-## 📚 Referencia del curso
-
-Repositorio desarrollado en el marco del curso **Fundamentos de Diseño – 2025**, Universidad Peruana Cayetano Heredia.
+Estamos abiertos a contribuciones técnicas, ideas para optimizar el sensor, propuestas de interfaz o incluso mejoras en el análisis químico.  
+Si deseas colaborar o compartir conocimientos relacionados, ¡bienvenido/a!
 
 ---
 
-## 📬 Contacto
+## 🎓 Proyecto académico
 
-Para más información o colaboración:
+Este repositorio fue desarrollado para el curso **Fundamentos de Diseño - 2025**  
+**Universidad Peruana Cayetano Heredia (UPCH)**  
+Facultad de Ingeniería – Carrera de Ingeniería Informática
 
-📧 andres.rodas@upch.pe *(ejemplo)*  
-🔗 [GitHub](https://github.com/tuusuario) • [LinkedIn](https://linkedin.com/in/tuusuario)  
+---
+
