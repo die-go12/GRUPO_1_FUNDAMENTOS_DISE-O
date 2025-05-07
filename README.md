@@ -53,7 +53,10 @@ Dentro de una **caja 3D sellada**, el sistema genera un flujo de aire constante 
 - 📈 **Apoyo a la fiscalización** de alimentos contaminados y promoción de prácticas agrícolas sostenibles.
 
 ---
+![Fresas](https://raw.githubusercontent.com/die-go12/GRUPO_1_FUNDAMENTOS_DISE-O/refs/heads/master/imagenes/fresas.jpg)
 
+
+---
 ## 🤝 ¿Cómo colaborar?
 
 Estamos abiertos a contribuciones técnicas, ideas para optimizar el sensor, propuestas de interfaz o incluso mejoras en el análisis químico.  
