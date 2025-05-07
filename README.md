@@ -22,19 +22,6 @@ El sistema permitirá monitorear la calidad de frutas provenientes de mercados l
 
 ---
 
-## 🧪 ¿Qué detecta nuestro sensor?
-
-Utilizamos un sensor **MQ135**, capaz de medir **compuestos orgánicos volátiles (COVs)** presentes en pesticidas como los **organofosforados**.  
-Dentro de una **caja 3D sellada**, el sistema genera un flujo de aire constante que concentra los gases desprendidos por las fresas para permitir su análisis.
-
-### Componentes principales:
-- Sensor **MQ135**
-- Microcontrolador **ESP32** o **Arduino UNO**
-- Ventilador extractor (flujo de aire)
-- Cámara de detección cerrada
-- Visualización de datos en pantalla o web
-
----
 
 ## 🛠️ Fases del Proyecto
 
