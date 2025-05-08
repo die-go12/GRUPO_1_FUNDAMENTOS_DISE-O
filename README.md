@@ -2,7 +2,7 @@
 
 > Este repositorio documenta el desarrollo de un sensor portátil para la detección de pesticidas organofosforados en fresas, una herramienta diseñada para proteger la salud del consumidor y el medio ambiente.
 
-> El proyecto se alinea con el Objetivo de Desarrollo Sostenible (ODS) 12: Producción y Consumo Responsables, y específicamente con la meta 12.4, que busca reducir los impactos negativos de sustancias químicas peligrosas a lo largo de su ciclo de vida.
+> El proyecto se alinea con el Objetivo de Desarrollo Sostenible (ODS) 12: Producción y Consumo Responsables, y específicamente con la meta 12.4, cual busca reducir los impactos negativos de sustancias químicas peligrosas a lo largo de su ciclo de vida.
 
 > Nuestro sensor portátil aporta a esta meta al detectar pesticidas en fresas, ayudando a prevenir daños invisibles en las personas.
 
@@ -17,11 +17,11 @@ El sistema permitirá monitorear la calidad de frutas provenientes de mercados l
 
 ## 👥 Equipo de Trabajo
 
-- **Andrés Rodas**  
-- **Juan Diego López**  
-- **Dario Huerta**  
-- **Harriet Mamani**  
-- **Jheyson Castañeda**  
+- **Andrés Rodas**: Coordinador de diseño y modelado 3D del sensor portátil  
+- **Juan Diego López**: Coordinador de desarrollo y programación del sistema de detección  
+- **Darío Huerta**: Coordinador de gestión y documentación del proyecto  
+- **Harriet Mamani**: Coordinadora de investigación química y análisis de pesticidas  
+- **Jheyson Castañeda**: Soporte técnico y validación de pruebas en campo  
 
 ---
 
