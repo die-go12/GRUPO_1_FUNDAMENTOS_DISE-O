@@ -40,7 +40,8 @@ El sistema permitirá monitorear la calidad de frutas provenientes de mercados l
 - 📈 **Apoyo a la fiscalización** de alimentos contaminados y promoción de prácticas agrícolas sostenibles.
 
 ---
-![Fresas](https://raw.githubusercontent.com/die-go12/GRUPO_1_FUNDAMENTOS_DISE-O/refs/heads/master/imagenes/fresas.jpg)
+![Fresas](https://raw.githubusercontent.com/die-go12/GRUPO_1_FUNDAMENTOS_DISE-O/refs/heads/master/FUNDAMENTOS_DE_DISEÑO/imagenes/fresas.jpg)
+
 
 
 ---
