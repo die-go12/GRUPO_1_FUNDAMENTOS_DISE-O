@@ -2,19 +2,19 @@
 
 UMBERT LEWIS DE LA CRUZ RODRIGUEZ (umbert.de.la.cruz@upch.pe)
 
-![lewis](../imagenes/LEWIS1.jpg)
+![lewis](FUNDAMENTOS_DE_DISEÑO/imagenes/LEWIS1.jpg)
 
 HARRY ANDERSON RIVERA TITO (harry.rivera@upch.pe)
 
-![harry](../imagenes/harry.jpeg)
+![harry](FUNDAMENTOS_DE_DISEÑO/imagenes/harry.jpeg)
 
 ---
 # Jefes de Práctica
 
 JULISSA ELVIRA VENANCIO HUERTA (julissa.venancio@upch.pe)
 
-![julissa](../imagenes/julissa.jpeg)
+![julissa](FUNDAMENTOS_DE_DISEÑO/imagenes/julissa.jpeg)
 
 CRISTHIAN GUSTAVO JACINTO CALDERON (cristhian.jacinto@upch.pe)
 
-![christian](../imagenes/christian.jpg)
+![christian](FUNDAMENTOS_DE_DISEÑO/imagenes/christian.jpg)
