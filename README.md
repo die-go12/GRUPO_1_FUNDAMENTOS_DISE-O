@@ -23,15 +23,6 @@ El sistema permitirá monitorear la calidad de frutas provenientes de mercados l
 - **Harriet Mamani**: Coordinadora de investigación química y análisis de pesticidas  
 - **Jheyson Castañeda**: Soporte técnico y validación de pruebas en campo  
 
----
-
-
-## 🛠️ Fases del Proyecto
-
-1. **Investigación:** Identificación de los pesticidas más comunes usados en fresas (especialmente organofosforados) y sus riesgos para la salud.
-2. **Diseño del Sensor:** Integración del MQ135 con componentes electrónicos para la detección de COVs relacionados a pesticidas.
-3. **Prototipado:** Construcción de la caja 3D con sistema de ventilación, y programación del microcontrolador para lectura de datos.
-4. **Validación:** Pruebas en fresas adquiridas en distintos mercados locales para observar niveles de compuestos detectados.
 
 ---
 
