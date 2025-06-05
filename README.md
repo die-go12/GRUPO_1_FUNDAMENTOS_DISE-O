@@ -1,11 +1,12 @@
 # 🍓 Proyecto ODS 12 - Detección de Organofosforados en Fresas
 
-> Este repositorio documenta el desarrollo de un sensor portátil para la detección de pesticidas organofosforados en fresas, una herramienta diseñada para proteger la salud del consumidor y el medio ambiente.
+Este repositorio documenta el desarrollo de un sensor portátil para la detección de pesticidas organofosforados en fresas, una herramienta diseñada para proteger la salud del consumidor y el medio ambiente.
 
-> El proyecto se alinea con el Objetivo de Desarrollo Sostenible (ODS) 12: Producción y Consumo Responsables, y específicamente con la meta 12.4, cual busca reducir los impactos negativos de sustancias químicas peligrosas a lo largo de su ciclo de vida.
+ El proyecto se alinea con el Objetivo de Desarrollo Sostenible (ODS) 12: Producción y Consumo Responsables, y específicamente con la meta 12.4, cual busca reducir los impactos negativos de sustancias químicas peligrosas a lo largo de su ciclo de vida.
 >![ods12](FUNDAMENTOS_DE_DISEÑO/imagenes/ODS12.JPG)
+Fuente: Almagra, 2019
 
-> Nuestro sensor portátil aporta a esta meta al detectar pesticidas en fresas, ayudando a prevenir daños invisibles en las personas.
+ Nuestro sensor portátil aporta a esta meta al detectar pesticidas en fresas, ayudando a prevenir daños invisibles en las personas.
 
 ---
 
@@ -54,4 +55,6 @@ Este repositorio fue desarrollado para el curso **Fundamentos de Diseño - 2025*
 Facultad de Ingeniería – Carrera de Ingeniería Informática
 
 ---
+## Bibliografía 
+Anónimo. (2019). Metas y Objetivos de la Agenda 2030: ODS12 Producción y Consumo Responsables. Almagra Cultura y Naturaleza http://almagraculturaynaturaleza.blogspot.com/2019/03/metas-y-objetivos-de-la-agenda-2030_43.html 
 
