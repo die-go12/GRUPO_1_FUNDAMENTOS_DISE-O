@@ -10,7 +10,7 @@
 
 ## 🏆 Objetivo del Proyecto
 
-Diseñar y construir un **sensor portátil y económico** que permita identificar la presencia de **organofosforados volátiles** en fresas, utilizando sensores de gases y tecnología de microcontroladores.  
+Diseñar y construir un **sensor portátil y económico** que permita identificar la presencia de **organofosforados volátiles** en fresas, utilizando sensores espectrales y tecnología de microcontroladores.  
 El sistema permitirá monitorear la calidad de frutas provenientes de mercados locales, reduciendo el riesgo de exposición a sustancias dañinas para la salud humana.
 
 ---
