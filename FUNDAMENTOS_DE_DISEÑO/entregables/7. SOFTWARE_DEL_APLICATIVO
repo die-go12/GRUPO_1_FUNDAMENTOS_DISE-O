@@ -1,0 +1,41 @@
+# Detalles del Software del Aplicativo
+
+Este documento forma parte del desarrollo del aplicativo **TanoSpectra**, detallando el software implementado, su estructura, tecnologías empleadas y cómo se integra dentro del sistema completo.
+
+## 📁 Repositorio del proyecto
+
+Todo el código fuente y documentación del proyecto se encuentra disponible en el siguiente repositorio de GitHub:
+
+🔗 [https://github.com/die-go12/TanoSpectra-app.git](https://github.com/die-go12/TanoSpectra-app.git)
+
+## 📄 Contenido del documento
+
+Este archivo incluye:
+
+- Descripción general del software del aplicativo.
+- Arquitectura del sistema y diagrama de componentes.
+- Tecnologías, frameworks y lenguajes utilizados.
+- Descripción de los principales módulos o microservicios.
+- Detalles sobre el flujo de datos y comunicación entre componentes.
+- Consideraciones sobre la escalabilidad, mantenimiento y seguridad.
+- Capturas de pantalla o ejemplos de interfaz.
+
+## ⚙️ Tecnologías empleadas
+
+| Categoría             | Tecnología                                       |
+|-----------------------|--------------------------------------------------|
+| Framework principal   | React Native (con Expo)                          |
+| Lenguaje              | TypeScript, JavaScript                           |
+| Navegación            | React Navigation + expo-router                   |
+| Empaquetador          | Metro (a través de Expo)                         |
+| Entorno de desarrollo | Expo                                             |
+| Control de versiones  | Git + GitHub                                     |
+
+
+## 📌 Instrucciones generales
+
+Para clonar el repositorio y comenzar a trabajar con el software:
+
+```bash
+git clone https://github.com/die-go12/TanoSpectra-app.git
+cd TanoSpectra-app
