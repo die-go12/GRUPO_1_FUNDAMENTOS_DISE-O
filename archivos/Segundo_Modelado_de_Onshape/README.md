@@ -1,4 +1,4 @@
-# Modelado 3D: Proyecto Final en Onshape
+# Modelado 3D: SEGUNDO modelado en Onshape
 
 Este archivo contiene el enlace al modelado 3D desarrollado como parte del proyecto final.
 
